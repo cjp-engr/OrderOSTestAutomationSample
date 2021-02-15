@@ -1,0 +1,9 @@
+{
+    "loginPagePath": {
+
+        "emailPath": "iEmail",
+        "passPath": "inputPassword",
+        "visibility": "//mat-icon[contains(@class,'mat-icon notranslate')]",
+        "loginPath": "btnContinue"
+    }
+}
